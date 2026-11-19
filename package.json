@@ -1,0 +1,14 @@
+{
+  "name": "download-speed",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "download-speed": "speedtest.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
